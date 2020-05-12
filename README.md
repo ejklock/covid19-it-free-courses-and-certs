@@ -16,10 +16,6 @@ https://vladtalkstech.com/2020/04/free-azure-training-and-az-900-exam-voucher.ht
 
 https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=93848
 
-https://www.facebook.com/100006596466754/posts/2657868714442985/
-
-https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=93848
-
 https://enroll.isc2.org/product?catalog=ISC2-CISSP-RVW-PUB
 
 https://www.fortinet.com/br/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html
