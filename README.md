@@ -1,8 +1,8 @@
-# covid19-it-free-courses-and-certs
+# IT Free Courses and/Or Certifications to do during a pandemic COVID-19 period 
 Collaborative list of free IT courses and/or certifications to do during a pandemic COVID-19 period 
 
 
-#Infosec and IT Infraestructure
+# Infosec and IT Infraestructure
 
 https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=93848
 
